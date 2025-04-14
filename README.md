@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Leon Taderera
 
-💻 Full-Stack Developer | 🧠 AI Explorer | 🔧 Auto-Electrics Hustler  
+💻 Full-Stack Developer | 🧠 AI Explorer 
 🎯 Focused on real-world projects, clean code & smart solutions  
 📍 Cape Town, South Africa  
 📫 leontaderera5@gmail.com  

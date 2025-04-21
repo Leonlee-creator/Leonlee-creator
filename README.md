@@ -1,13 +1,13 @@
-# 👋 Hey, I’m Leon Taderera
+#  Hey, I’m Leon Taderera
 
-💻 Full-Stack Developer | 🧠 AI Explorer |
+💻 Full-Stack Developer | AI Explorer |
 🎯 Focused on real-world projects, clean code & smart solutions  
 📍 Cape Town, South Africa  
 📫 leontaderera5@gmail.com  
 
 ---
 
-### 🚀 Tech I'm Working With
+###  Tech I'm Working With
 Python • FastAPI • Git • HTML • CSS • JavaScript • OpenCV • AI Tools
 
 ---
